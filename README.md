@@ -1,12 +1,27 @@
-### Hello World 👋
-Sou estudante de Ciência da Computação e estou construindo meu caminho como desenvolvedor, explorando diferentes áreas para entender onde posso gerar mais impacto. Tenho focado bastante em fundamentos sólidos, principalmente através de projetos envolvendo Estruturas de Dados com C++, Orientação a Objetos em Java e aplicações de Data Science com Python. Gosto de aprender na prática, testando ideias e evoluindo aos poucos, sempre buscando escrever código mais limpo e eficiente.
+### 👋 Hello World
+Sou estudante de **Ciência da Computação** e estou construindo meu caminho como desenvolvedor, explorando diferentes áreas para entender onde posso gerar mais impacto.
+
+Atualmente, tenho focado em desenvolver **fundamentos sólidos**, principalmente através de projetos envolvendo:
+- Estruturas de Dados com **C++**
+- **Programação Orientada a Objetos** com Java
+- Aplicações de **Data Science** com Python
+
+Gosto de aprender na prática, testando ideias, errando, ajustando e evoluindo constantemente, sempre buscando escrever um código mais limpo, eficiente e bem estruturado.
 
 ---
 
-### Ferramentas & Tecnologias 🛠️
-No meu dia a dia, trabalho com linguagens como Python, Java e C++. Para análise de dados, utilizo bibliotecas como Pandas, NumPy e Matplotlib, que me ajudam a transformar dados em insights visuais e úteis. Também venho desenvolvendo minhas habilidades com bancos de dados, entendendo melhor como estruturar e manipular informações de forma eficiente.
+### 🛠️ Ferramentas & Tecnologias
+No meu dia a dia, trabalho principalmente com:
+
+- **Linguagens:** Python, Java, C++  
+- **Data Science:** Pandas, NumPy, Matplotlib  
+- **Banco de Dados:** Modelagem, manipulação e organização de dados  
+
+Utilizo essas ferramentas para transformar dados em insights úteis e para construir soluções que façam sentido na prática.
 
 ---
 
-### Sobre mim 📌
-Estou em constante aprendizado e gosto de encarar desafios que me façam pensar de verdade. Ainda estou no início da jornada, mas levo isso como motivação para evoluir todos os dias. Valorizo consistência, prática e curiosidade. Mente aberta para sempre aprender algo novo. 
+### 📌 Sobre mim
+Estou em constante aprendizado e gosto de desafios que realmente me façam pensar.
+Ainda estou no início da jornada, mas encaro isso como uma oportunidade para conhecer tudo que posso. 
+Sempre com a mente aberta para aprender algo novo!
