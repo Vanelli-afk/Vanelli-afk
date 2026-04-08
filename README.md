@@ -1,4 +1,4 @@
-### 👋 Hello World
+### 👋 Hello World!
 Sou estudante de **Ciência da Computação** e estou construindo meu caminho como desenvolvedor, explorando diferentes áreas para entender onde posso gerar mais impacto.
 
 Atualmente, tenho focado em desenvolver **fundamentos sólidos**, principalmente através de projetos envolvendo:
