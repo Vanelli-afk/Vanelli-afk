@@ -10,7 +10,7 @@ Gosto de aprender na prática, testando ideias, errando, ajustando e evoluindo c
 ### 🛠️ Ferramentas & Tecnologias
 No meu dia a dia, trabalho principalmente com:
 
-- **Back-end:** Python, Java, Node.js  
+- **Back-end:** Python (FastAPI), Java, Node.js  
 - **Front-end:** Bootstrap, React, TypeScript 
 - **SQL:** MySQL e SQLalchemy  
 - **Data Science:** Pandas  
